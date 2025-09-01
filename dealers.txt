@@ -1,0 +1,6 @@
+TechWorld,071-2345678,Colombo,Laptop|Dell|150000.0|5;Mouse|Logitech|3500.0|15;Keyboard|HP|4200.0|10
+ByteZone,077-6543210,Kandy,Monitor|Samsung|45000.0|4;Webcam|Logitech|8000.0|8;Headset|Sony|12000.0|6
+CyberLink,070-1122334,Galle,Speaker|JBL|9500.0|10;Microphone|Rode|18000.0|5;Router|TP-Link|6700.0|7
+CompCity,078-9988776,Negombo,Printer|Canon|23000.0|3;Scanner|HP|18000.0|4;USB Drive|SanDisk|2000.0|20
+NetWorld,075-4455666,Jaffna,Laptop|Lenovo|140000.0|6;Monitor|Acer|43000.0|5;Keyboard|Logitech|3900.0|12
+GigaTech,072-3344556,Batticaloa,Mouse|HP|3000.0|14;Headset|Beats|15000.0|5;Router|D-Link|7200.0|6
