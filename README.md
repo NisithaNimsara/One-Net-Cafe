@@ -1,4 +1,4 @@
-# One Net Cafe — Inventory & Supplier Management
+# One Net Cafe - Inventory & Supplier Management
 
 ## Overview
 
